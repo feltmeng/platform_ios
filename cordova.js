@@ -1,3 +1,4 @@
+// cordova-2.2.0
 // commit 02b91c5313ff37d74a58f71775170afd360f4a1f
 
 // File generated at :: Wed Oct 31 2012 14:34:26 GMT-0700 (PDT)
