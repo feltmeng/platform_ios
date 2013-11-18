@@ -1,4 +1,6 @@
- (function(){
+//iOS plugin
+//https://github.com/phonegap-build/GAPlugin
+(function(){
   var cordovaRef = window.PhoneGap || window.Cordova || window.cordova;
   
   function GAPlugin() { }
